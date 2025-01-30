@@ -13,3 +13,4 @@ Installation is simple: clone the repository, install dependencies using npm ins
 app.py for the backend. Future enhancements include AR integration for real-time object translation, gesture-based controls for hands-free navigation, multi-user VR 
 environments for collaborative translation, and achievements & rewards in Learn Mode. Contributors can fork the repository, create a feature branch, commit changes, 
 push updates, and submit a pull request. The project is licensed under the MIT License, and users can reach out via issues or email for inquiries.
+If you want to use the live interaction please download the zip file and run the index.html to run the interactive simulation.
